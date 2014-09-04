@@ -1,11 +1,9 @@
-===============================
 Tplink SOHO router control tool
 ===============================
 
 
 Tplink SOHO router control tool for tplink-r478.
 
-================================
 About config file "tpconfig.ini"
 ================================
 
